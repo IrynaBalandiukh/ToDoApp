@@ -1,0 +1,25 @@
+body {
+  background-color: #f4f4f9;
+  font-family: "Roboto", sans-serif;
+  margin: 100px 0 0 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+}
+
+.app {
+  background-color: #ffffff;
+  padding: 20px 40px;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  width: 100%;
+  max-width: 400px;
+}
+
+.app h1 {
+  font-size: 2em;
+  color: #333333;
+  text-align: center;
+  margin-bottom: 20px;
+}
